@@ -1,0 +1,17 @@
+{
+  "name": "es2en-bot",
+  "version": "1.0.0",
+  "description": "TelegramBot - Translate spanish to english using G-Translate.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tomi Vallini",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
